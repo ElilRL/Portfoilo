@@ -133,21 +133,6 @@ html{
     margin-bottom: 20px;
 }
 
-/* Image Hover*/
-.image{
-  width: 360px;
-  height: 240px;
-  margin: 10px;
-  opacity: 1;
-  transition: .5s ease;
-  backface-visibility: hidden;
-  
-}
-
-.middle{
-  
-}
-
 
 /* Portfolio Section */
 #my-work{
@@ -156,6 +141,7 @@ html{
     background-color: white;
     background: url(Home/sss.jpg) no-repeat center center/cover;
     align-items: center;
+    color:white;
     padding: 20px;
 }
 
